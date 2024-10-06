@@ -1,0 +1,188 @@
+#+title: Getting Work Done - HBR Notes
+#+author: Marc Alvarez
+#+date: 10.22.2023
+
+* Summary
+
+* Notes
+** Why Focus on Productivity
+- Disrupting tendencies we might have to feel as if we are 'too swamped' to get work done
+- Instilling habits and practice in tracking, prioritizing, and logging our work, in turn allowing us to identify inefficiencies and moving us towards completion of our goals
+- In response to our worry about time spent on the methods and means of productivity, we will find that we can dispel distractions and our procrastination, focusing on the work of building habits that energize us toward the work that matters
+- "We have become drawn to urgency. It pulls us in and gives us a false sense of productivity"
+- Having systems in place around our work and productivity reduces stress via introducing forethought to our actions
+- The first step in the journey is identification and recognition of our goals and an audit of how we're currently spending our time
+** Identify What Needs to Get Done
+*** List Your Goals
+- Without knowing our goals, we cannot map the tasks on our list to outcomes let alone prioritize them or articulate the value of accomplishing them
+- Start by listing your goals, doing so gives us ways to 'prioritize your daily work; and second, to gauge your progress'
+- Refer to your list regularly, as it helps you identify those tasks which drive you toward completion of your goals
+*** Track Your Time
+- We need to understand if what we are /currently/ doing moves us towards accomplishing our goals
+- We can easily get distracted by 'unrelated tasks or unexpected crises'
+- To start, we should consider the following exercise - performing the steps for a period of two weeks:
+  1. Write down your activities (e.g., a brain dump) - this should include /everything/ from the smallest to the largest tasks, even the time we spend procrastinating
+  2. Break down these activities into categories (e.g., core responsibilities, personal growth, managing people, crises and fires, free time, administrative tasks, etc.)
+  3. Track your time using a time-tracking tool that allows your to calculate time spent per task and category
+- While this exercise takes upfront investment, it's essential to seeing where we might begin to improve and optimize our productivity
+** Schedule Your Work
+*** Set Priorities
+- We have our list, but we need a way to prioritize based on importance
+- Prioritization is made all the more challenging by the difficulty in handling incoming requests for our time and attention that are deemed 'urgent'
+- We have to 'resist the temptation to get drawn into these tasks without thinking through them', even if it means managing the expectations fo others
+- Each item on our list should undergo evaluation against its importance - that is, how it aligns with our goals
+- Use the four descriptions defined by Stephen Covey to help differentiate between /urgent/ and /important/:
+  1. /Urgent and important/: tasks arising from crises and deadlines
+  2. /Not urgent but important/: high-impact tasks, but not necessarily time-sensitive
+  3. /Urgent but less important/: tasks that need to be done quickly, but have lower impact if not done or finished late
+  4. /Not urgent and less important/: tasks that don't require immediate attention and aren't urgent
+- The definitions by Covey allow us to start prioritizing so that we are setting meaningful deadlines for our work
+- In turn, this method of prioritization allows us to delegate the lowest-priority items - our "fastest path to obtaining additional time that you can use toward more important work"
+*** Leverage Deadlines
+- Once importance is established, set deadlines - but be mindful of their pressure and power
+- Setting deadlines is an exercise in breaking down the problem - doing this will allow you to ensure that each constituent task has been allocated appropriate time
+- If you're unsure about how to estimate, seek outside data points
+- These interim deadlines can be powerful tools - enabling us to keep risk managed during the execution of work, helping us to avoid anxiety, and plays into natural desire for accomplishment by ensuring the smaller sub-tasks of our work accelerate us towards completion of our goals
+- While it's important to set deadlines that afford us space to be creative and plumb the depths of our ideation - but within reason, as extending deadlines routinely sets us up for failure, reducing motivation and preventing adequate time for reaction
+- Be accountable to your deadlines, make them realistic, build in means of reviewing them daily
+*** Scheduling Tasks
+- This is really about placing those tasks - now emboldened to action by their priority and deadlines - into time
+- Again, this should be a consistent - weekly or daily - exercise
+- Some tips when going about this process:
+  1. Front-load demanding and important tasks, when you are likely to have less interruptions and so that their completion provides a sense of accomplishment that extends to the completion of other tasks throughout the day
+  2. Put easy tasks between harder ones, affording yourself mental breaks
+  3. Group like tasks together - this minimizes context switching and can increase feelings of reward
+- Do not be afraid of realizing that /there aren't enough hours in the day/, this will foster a need to focus on prioritization
+- For those tasks that carry over day to day or week to week, structure time to decide whether you will: (1) do it now (), (2) schedule it for later, or (3) remove the task if unwilling to complete the task - admit this latter point when appropriate and handle any necessary expectation/communication
+*** Creating the Daily To-Do List
+- While reviewing the calendar, start by asking 'What do I need to do today?'
+- Break down your tasks - each item on a to-do list should move a project or goal forward (this is the same technique we advocated while setting deadlines)
+- Be specific - the clearer we are, the more the importance of the task may be represented
+- As to the list itself, it should:
+  1. Be accessbile and visible, so that it stands out among the other items vying for your attention in the day
+  2. Include the due date next to the task, so that you have a sense of how much time is available
+  3. Highlight - or otherwise - indicate top priorities, so that there is no doubt about the impact of doing the work ahead
+- "As you work, take a look at your to-do list regularly - every hour or so. Is it still manageable? Do some tasks need to be reprioritized or rescheduled?" Building this into your work enforces better control of your time and you will maximize your efforts
+- If you operate well by giving yourself reward for work well done, build in those moments to celebrate crossing items off the to-do list
+** Find Your Focus
+*** Organize Your Space
+- Cultivate a physical space that is conducive to getting work done, with your to-do list front and center
+- Creating a space for work can be done by:
+  1. De-clutter your space, try doing so between to-do items to keep a clear space that minimizes distraction
+  2. Keep close the things you need to accomplish the task at hand, if an item "on your desk hasn't been used by the end of the week, file it or throw it away"
+  3. Group items by their usage - in other words, don't keep the pen and paper too far apart because their utility is magnified when you don't have to search for them scattered throughout your space
+  4. Maintain a physical inbox, go through this at the close of each day - doing this will keep it from devolving into a source of clutter
+  5. Make the space comfortable, within this space you will be investing the attention of both mind and body - it should be ammendable to them both
+  6. Revisit the efficacy of your space at the end of the week, adjusting to your needs and findings
+*** Organize Your E-mail
+- A clean inbox can help us keep the review and decision-making surrounding the evaluation of communication's importance to a minimum
+- One strategy is to create "three folders: follow-up, hold, and archive" - in this model, /follow-up/ is where messages go needing more than a few minutes to respond to, /hold/ where messages go about future events, and /archive/ is where messages go you want to store for record-keeping
+*** Develop Smart Routines
+- Reduce decision-making by limiting choice, so you can focus your attentino and energy on work that matters - "start by applying repeatable structure to your day through regular routine and habits"
+- Take inventory of any existing routines, then adjust toward those that you find improve focus and lessen inefficiency - some ideas presented are:
+  1. Start early, giving yourself a chance to feel energized by how much you can accomplish before noon
+  2. Start with yourself, appreciating and having gratitude for the work you're about to do
+  3. Work in 90-minute increments, this is an optimal amount of time for focus
+  4. Review your day, review your to-do list - asking whether you accomplished what you wanted and if your expectations were realistic - doing this will provide a way to build in a habit of refinement
+- As ever, a habit of prioritizing good sleep and exercise will promote a steady stream of accomplishing tasks at the start of every day preparing you mentally and physically to do good work
+- Try planning meals and wardrobe in advance, with an emphasis on simplification and routine, to allocate focus to decisions that require more thought throughout the day
+** Keep Up Good Habits
+*** Stop Procrastinating
+- Procrastinating can originate from having too much on our plates, but it can also be a reaction to our inability to know where to start or how accomplish the task at hand
+- When facing the inclination to procrastinate, we can start by 'setting deadlines, rewarding ourselves, and asking for help'
+- If these tactics haven't worked, it could also be a fear reaction - the fear of failing; to counteract this, realize that we don't accomplish anything without getting started
+*** Avoid interruptions
+- When outside forces are the culprit to our inability to find motiviation, look to reduce context switching
+- When new tasks, goals, or problems do take precedence over your existing work, look to consciously shift - letting mind and body settle into the transition by marking the moment with movement (e.g., 'getting up from chair, take a walk, or do some stretches')
+*** Don't let e-mail take over
+- E-mail can be a huge factor in loss of productivity, aside from those tips already described above to help you organize e-mail, you can also try the following to manage incoming e-mail distractions:
+  1. 'Turn it off' - reducing the initial window of distraction; instead, schedule time to respond while letting those know (if necessary, in the form of a signature or other likewise fashion) that they should call if urgent
+  2. 'Give it two minutes' - if you can answer in two minutes, do it; if you can't, schedule a time to reply and add to your to-do list
+  3. 'Rethink "reply-all"' - is a meeting or call more appropriate so that everyone can contribute?
+  4. 'Stop unnecessary responses' - not every loop needs to be closed, these may sound or feel helpful but this time adds up to time you may not need to invest
+  5. 'Auto-organize' - create filters to auotmatically file or archive regular e-mails you may need later but will distract you from your work
+*** Stop multitasking
+- Multitasking 'is just like interrupting yourself, continuously'
+- Remember these three myths:
+  1. Humans are capable of doing two things at once - we're not
+  2. Multitasking makes you more efficient - wrong, researching 'shows it will take you 25% longer to finish the initial task once you've picked up another one'
+  3. The stress of multitasking boosts your performance - it stifles clear and creative thinking, increasing impulsivity (all things in opposition to good and meaningful work)
+*** Work less
+- 'People perform best when they alternate between times of intense work and times of rest'
+- Counterintuitively, releasing the pressure to do more can help us stay more productive and engaged
+- Two ways to build this vital rest into your day: utilize the 'lunch hour' (even if it's walking + exercising) and give space for creative thinking (time for brainstorming, by yourself or with others)
+** Work Effectively with Others
+*** Learn to say no
+- We want to be helpful, a team player - but we have to be rigorous when assessing requests of our time
+- When others need a favor or ask you to take on a new task, start by asking yourself:
+  1. 'How valuable is this work to the company? Does it contribute to the company's overall objectives or to the objectives of your team or division? If the work doesn't add value and it's not having a positive impact on the company's goals, it may not make sense for you to take it on.'
+  2. 'How important is this activity to your own professional perfomance goals? Classify the work as essential, important, discretionary, or unimportant. If it's not important to your organization or to the metrics for success that you and your manager have set for you, don't do it.'
+  3. 'Do you get personal value from this work? Do you enjoy it or do you dislike it altogether? If the work isn't meaningful to you, chances are you're not going to perform the task well and it might not be somethign worth putting on your list.'
+  4. 'Do you have enough time to do the work? Even if it's valuable, if you have other high-priority work on your plate, it may not make sense for you to take on this project now.'
+  5. 'Is this something only you can do because you have a particular skill set or expertise, or could it be accomplished successfully by someone else? If it is the latter, this task is one you should delegate.'
+- Even if coming 'from your boss, it's acceptable to push back and ask these questions'
+*** Delegate
+- When we can identify the value of tasks, we can spot and sort those that are low-value - a key sign you should consider delegating them
+- Who we delegate to is important, what's best for a direct report may not be appropriate for a colleague on another team - it's important to think in terms of aligning people and work (e.g., to take advantage of or augment a colleague's skill set)
+- Once you've delegated, monitor the state of progress at a distance and make yourself available to unblock - but show trust and step away
+- Follow through on post-delegation needs to re-evaluate and re-assign your time to other tasks and communicate accordingly to hold yourself accountable
+*** Ask for help
+- 'Start with what you know, have an opinion, and be direct': in other words, do pre-requisite steps to provide context and background on what you've done or know already, acknowledge and articulate that you have a sense of where you're heading and any rationale as to why so you can get feedback as to its correctness, and, finally, be clear when you ask for help and are still unsure of or don't understand the help given.
+*** Make meetings more productive
+- If you don't have the right people in the room to make the decisions, reschedule - it's a waste of time otherwise
+- Have an agenda, labeling items as 'for discussion', 'for information', 'for decision'
+- Assign time for each agenda item, starting in priority order of importance
+- Follow '90-minute rule' - few things are accomplished after 90 minutes, schedule a follow-up meeting - it'll make the collective time more productive
+*** Make virtual work more effective
+- Over communicate, and establish the norms of communication for the team
+- Be clear and direct in communication, and respond promptly - even if it's to let them know you're 'not available now, but will be back in touch soon'
+** Assess Your Progress
+*** Reflect and adjust
+- Ask yourself what's working by reviewing those actions that are contributing to successful task completion, if there's room for improvement which tools are detracting or distracting
+- Leave what isn't useful, and refine to those tools that provide value and to which you are committed
+- Even when we are well-established in our habits of organization, things can still verge towards a state of mess - reset every four to six months, ensuring that your systems of work + organization are in order
+- Track successes, even if small and even if it's only a stepping stone to subsequent larger goals
+- Be creative in your approaches, embracing your own uniqueness to individualize your systems increasing their positive impact on your productivity
+- 'By checking in on these processes and adjusting them frequently, you will enjoy not only a more effective way to get work done, but ideally a more productive way to live.'
+
+* Summary
+This guide outlines practical methods to improve productivity by setting clear goals, tracking time, and reducing distractions. It emphasizes the importance of organization, effective meetings, and continual assessment of progress to enhance work habits and overall efficiency.
+
+* Notes
+** Why Focus on Productivity
+- Feeling overwhelmed by tasks can be a barrier to productivity.
+- Developing habits for tracking, prioritizing, and logging work helps identify inefficiencies and build momentum toward achieving goals.
+- A focus on productivity can reduce stress and eliminate distractions, allowing time to focus on meaningful work.
+
+** Identify What Needs to Get Done
+*** List Your Goals
+- Without goals, it’s impossible to prioritize tasks or gauge progress.
+- Regularly reviewing goals helps align daily tasks with long-term objectives.
+
+*** Track Your Time
+- It’s critical to understand how current tasks align with your goals and to avoid unrelated distractions.
+- Conduct a two-week time-tracking exercise to categorize all activities and identify time-wasters.
+
+** Build Systems to Get Things Done
+*** Prioritize Tasks
+- Break large tasks into smaller, actionable steps.
+- Use productivity tools like lists or tracking software to keep a handle on tasks.
+
+*** Reduce Distractions
+- Manage your time and eliminate distractions such as unnecessary meetings or unproductive multitasking.
+- Establish rules for dealing with email, calls, or social media to maintain focus.
+
+** Make Meetings More Productive
+- Reschedule meetings if the right people aren’t present.
+- Set an agenda with specific items for discussion, information, and decision.
+- Follow the 90-minute rule—schedule follow-up meetings for extended discussions.
+
+** Make Virtual Work More Effective
+- Overcommunicate and establish team norms for remote work.
+- Respond promptly, even if only to acknowledge that you’ll reply later.
+
+** Assess Your Progress
+*** Reflect and Adjust
+- Regularly evaluate what tools and systems are working, and discard what isn’t useful.
+- Reset your organization systems every few months to maintain order.
+- Celebrate small successes and adjust as needed for continual improvement.

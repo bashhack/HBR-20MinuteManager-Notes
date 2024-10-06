@@ -1,0 +1,103 @@
+#+title: Presentations - HBR Notes
+#+author: Marc Alvarez
+#+date: <2024-10-04 Fri>
+
+* Notes
+** Why Give a Presentation?
+- Explaining new data // Soliciting ideas or feedback to build consensus // Asking people to take action // Seeking help solving a problem // Getting buy-in on an initiative
+- Ask whether a presentation is the best means of conveying your message - what is your 'purpose phrase' (it should be as short as those immediately listed above), if you still determine you need to do a presentation after evaluating other options like a short face-to-face or email, your purpose statement will be a guide for crafting your presentation
+** Define Your Goal
+- Effective presentations have (a) a broad objective that can be (b) linked to desired outcomes, in turn giving a path to (c) measure success
+** Know Your Audience
+- Questions to ask:
+  1. How big will the group be? Who will be absent?
+  2. What roles do your audience members perform in the organization? To whom are they accountable?
+  3. What does the audience already know? What do people need to know?
+  4. What are people likely to assume? Which of those assumptions are correct and which incorrect?
+  5. How well does the audience know you?
+  6. Will some attendees' goals conflict with others'?
+  7. What types of presentations are your audience members accustomed to?
+  8. Is someone requiring them to be there? Is that person you?
+  9. Will you or someone else hold them accountable for what happens during or after the presentation?
+- 'Put yourself inside their heads and behind their eyes. Imagine yourself sitting there witnessing what you have to say.'
+** Craft Your Message
+- Don't be under the impression that a great idea alone speaks for itself, but audiences need more - guide them through logic, facts, and examples without boring them in details that don't matter or don't pertain to them
+- The message should help them arrive where you are and enjoy the journey
+- Here's how to get there:
+  1. Define the core message: every part of your presentation should advance the message you select
+  2. Identify relevant arguments and data: Back up each assertion with well-chosen facts and data, opinions don't alone move an audience
+  3. Organize the content: logically sequence your argument so that people can follow one point to the next, in most cases aim for four parts -> an opening, a description of the need or problem you're addressing, your proposed solution, and a call to action
+     a. The opening: use hooks (comment, relevant story, statement, or example) to get attention, engage off the bat, use show of hands, etc. Use the time to define the purpose, highlight what's in it for the audience, and previews main points very briefly
+     b. The need or problem: Keep this tight, focus on spelling out main challenge, show how it affects the audience, bring a sense of urgency, reflects on input from others, incorporates relevant arguments and supporting materials that sustain interest without distrating from the point
+     c. The solution: This is the pleace to say how you think the problem should be solved or the need satisfied, you want to phrase your solutions in terms of the audience needs, use a story when possible to illustrate, involve the audience in developing a path, align strength of solution to the challenge
+     d. Call to action: A good wrap-up has a strong CTA -> should reiterate the challenge and your solution, recommend specific action, obtain buy-in or commitment, agree on assignment if applicable, explain what you'll do to follow up after presentation
+** Identify Your Resources
+- NOTE: Section here largely focuses on physical environment coordination and curation - use basic common sense and be prepared is really the takeaway.
+- I do like the callout to 'plan what to skip if you need to do so' - better to do this than not finish or rush through the end
+** Plan the Visuals
+- The visuals are 'often what stick with people well after a presentation ends'
+- 'Consider...people learn 75% of what they know visually, 13% through hearing, and 12% through smell...a picture is three times more effective in conveying information as words along...words and pictures together are six times as effective as words alone'
+- Choose appropriate media for presentation (e.g., PowerPoint, video, paper handouts, etc.)
+- Not all visuals enhance - avoid: too many slides, using complex visuals, packing visuals to border, and simply reading text in your visuals aloud
+- Compelling visuals are often simple, use graphics, icons and symbols, key words not full sentences, one concept and no more than six lines of text per slide or page, three to six ideas on each flip chart or whiteboard, color where possible, picutres where feasible, bullets over numbers for nonsequential items, all-uppercase letters only for titles and acronyms
+** Practice Your Delivery
+- Rehearse, in front of test audience is wise
+- If equipment is used, practice with it
+- Ask 'What's the worst that can happen during the presentation?' Prepare for that so you can map out how you'll move past it
+- Visualize youself giving a successful presentation, repeat positive statements liek 'I am relaxed and ready', use deep-breathing or other tension-relieving exercises to reduce stress, interact with audience members as they come into the room
+** Deliver Your Presentation
+- Keep audience engaged, be flexible, breathe
+** Manage the Response
+- If taking questions afterwards, make the transition to this part of the presentation clear, tell the audience the time constraints, maintain control by repeating each question and giving the answer to the whole group not only to the questioner
+- Preparing for tough questions is key - anticipate them, be gracious and not defensive, don't be all things to everyone, answer questions honestly
+- Outline next steps, show your presentation has a life beyond the presentation itself -> numerous ways to continue the conversation and show supoprt for the ongoing nature of the discourse
+** Debrief Your Presentation
+- Assess the talk you just gave so you can sharpen your skills before the next one
+** Follow Up with the Audience
+- 'Even the most well-articulated ideas can evaporate into thin air if you don't take concrete steps to make sure they're implemented'
+- Keep the promises you made during the presentation, you may also consider: thank you notes to key attendees, e-mailing the audience to reinforce takeaway message, making yourself available for questions that occur to people after the presentation, booking 'next steps' meetings, or even givign the same or a similar presentation to another group that needs to hear your message
+
+* Summary
+Presentations are a vital tool for conveying information, gaining consensus, and persuading audiences. This guide offers strategies for defining a clear goal, understanding the audience, crafting the message, and delivering presentations effectively. It emphasizes preparation, visual engagement, and proper follow-up to ensure lasting impact.
+
+* Notes
+** Why Give a Presentation?
+- Presentations are useful for explaining data, soliciting ideas, getting buy-in, and solving problems.
+- Ask yourself if a presentation is the best way to convey your message; define your 'purpose phrase' to clarify the goal.
+
+** Define Your Goal
+- Ensure your presentation has a broad objective linked to specific outcomes to measure success.
+
+** Know Your Audience
+- Understand the audience size, roles, existing knowledge, assumptions, and familiarity with you.
+- Consider their goals, conflicts, and whether they are accustomed to this type of presentation.
+
+** Craft Your Message
+- The message should guide the audience through logic and examples, avoiding unnecessary details.
+  1. **Define core message:** Every part of your presentation should support this.
+  2. **Identify arguments and data:** Support assertions with facts, not opinions.
+  3. **Organize content:** Use an opening, describe the problem, propose a solution, and end with a call to action.
+
+** Identify Your Resources
+- Be prepared and plan for contingencies. Prioritize skipping less critical content if time is tight.
+
+** Plan the Visuals
+- Visuals are powerful tools for retention—aim for simplicity and relevance.
+- Avoid overloading slides, using complex visuals, or reading text aloud.
+- Use images, graphics, and keywords rather than full sentences.
+
+** Practice Your Delivery
+- Rehearse with the actual equipment, in front of a test audience if possible.
+- Prepare for worst-case scenarios, and visualize success to manage anxiety.
+
+** Deliver Your Presentation
+- Engage the audience, be flexible, and manage stress with breathing techniques.
+
+** Manage the Response
+- Set clear expectations for Q&A sessions, repeat questions for the entire audience, and handle tough questions with grace.
+
+** Debrief Your Presentation
+- Assess the strengths and areas for improvement immediately after delivering the presentation.
+
+** Follow Up with the Audience
+- Ensure the presentation has lasting impact by following up with attendees through emails, thank-you notes, or meetings.

@@ -1,0 +1,50 @@
+#+title: Managing Time - HBR Notes
+#+author: Marc Alvarez
+#+date: <2024-10-06 Sun>
+
+* Summary
+
+This text discusses the importance of time management and provides strategies to manage time effectively. Effective time management is a skill that can be learned and practiced. The steps to effective time management include: self-assessment, stating objectives, breaking down responsibilities, tracking time, examining results, developing a plan, executing the plan, prioritizing tasks, and reassessing progress. Tools such as timeboxing and the two-by-two matrix for task prioritization are discussed.
+
+* Notes
+
+** Importance of Time Management
+- Effective time management helps to prioritize, plan, and align schedules with goals to be more efficient. This helps to manage a wide range of tasks, responsibilities, and deadlines.
+
+** Self-Assessment
+- The first step to effective time management is to track your time and understand how you are currently spending it. This includes identifying where your time goes and uncovering hidden time sinks in your day.
+
+** Stating Objectives
+- Identify the reason for wanting to manage your time better. This will help inform your efforts and your goals.
+
+** Breaking Down Responsibilities
+- Break down job duties into broad categories such as personal growth, employee management, core responsibilities, and administrative work. Track the amount of time spent on each category.
+
+** Tracking Time
+- Create a time chart and record how long each task takes to complete. At the end of each day and week, tally the amount of time spent on each activity. This gives a clear account of how time is spent or wasted.
+
+** Examining Results
+- Look for patterns in the time spent on tasks. Recognizing these patterns can inform changes in how time is spent.
+
+** Developing a Plan
+- Use the information gathered from tracking time to develop a plan to spend time more wisely in the future.
+
+** Executing the Plan
+- Use a tool called timeboxing to stick to the plan. Timeboxing involves breaking down your schedule into small time periods and allocating tasks to each time period.
+
+** Prioritizing Tasks
+- When setting a daily schedule, prioritize tasks. The two-by-two matrix (urgent/important) can be used to prioritize tasks based on their urgency and importance.
+
+** Reassessment
+- Assess and reassess progress regularly. Look for warning signs and areas that need improvement. Make changes as necessary to stay on track.
+
+** Dealing with Deadlines, Procrastination, and Interruptions
+- To manage deadlines, plan from the beginning and sequence tasks from big to small.
+- To overcome procrastination, set deadlines, start small, ask for help, or gamify the process.
+- To avoid interruptions, set ground rules about when to divert attention from the task at hand.
+
+** Time Management and Meetings
+- Evaluate the value of meetings. Consider scheduling shorter meetings, cancelling recurring meetings without an agenda, or declining meetings that are not essential.
+
+** Reassessment and Adjustments
+- Regular self-checkups help to identify if you are on track or off track. This allows for necessary adjustments to be made to improve time management.

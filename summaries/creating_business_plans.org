@@ -1,0 +1,58 @@
+#+title: Creating Business Plans - HBR Notes
+#+author: Marc Alvarez
+#+date: <2024-10-06 Sun>
+
+* Summary
+Writing a business plan is a crucial step in establishing a successful venture, whether starting a new company, expanding an existing firm, or launching an initiative within an organization. It serves multiple purposes, such as obtaining buy-in, generating enthusiasm, raising capital, and sustaining business longevity. The process involves evaluating the idea thoroughly and providing a roadmap for navigating opportunities and challenges. A well-structured business plan includes key components like the executive summary, business description, market and competitive analysis, management team introduction, operations and marketing plans, financial projections, and an exit strategy. Each section plays a vital role in assessing feasibility, attracting investors, and guiding the business towards its goals.
+
+* Notes
+** The Importance of Writing a Business Plan
+Writing a business plan is essential for evaluating a new venture's feasibility, obtaining buy-in, and generating enthusiasm. It is beneficial for internal and external ventures, helping to establish a company, create a new product, raise capital, and sustain the business over time. The plan serves as a roadmap to navigate opportunities and challenges, developing strategies to avoid potential problems.
+
+** Getting Started with a Business Plan
+William Salmon, a Harvard Business School professor, emphasizes focusing less on financial projections and more on four critical factors: people, opportunity, context, and risk and reward. Understanding the audience and purpose of the plan is crucial, whether for internal approval or raising venture capital. Gathering relevant information and tailoring the message to the audience's needs are key steps in the planning process.
+
+** Structure of a Business Plan
+A typical business plan starts with a cover page, followed by a table of contents, a summary, business description, industry background, competitive and market analysis, team introduction, operations and marketing plans, financial projections, and attachments with milestones. The structure may vary based on the audience and the venture's specifics.
+
+** Describing the Opportunity
+Clearly articulating the business opportunity is vital. The plan should explain how the offering will help customers and fit within the larger business context. Addressing customer pain points, offering unique solutions, and differentiating from competitors are critical to capturing interest.
+
+** Executive Summary
+The Executive Summary is a concise overview of the business idea, capturing the essence of the proposal, mission statement, market environment, unique opportunities, competitive advantages, financial potential, management team, and business stage. It must be compelling enough to encourage further reading.
+
+** Business Description
+This section provides a high-level overview of the proposed venture, outlining the business concept and value proposition. It should demonstrate the potential for growth in products, services, customer base, or geographic scope.
+
+** Analyzing the Business Environment
+The analysis includes understanding the industry and market context. Evaluating industry size, growth potential, competition, and market opportunity helps determine the venture's feasibility and attractiveness to investors.
+
+** Industry Background
+This part covers the industry's shape, size, competitors, and barriers to entry. Understanding these factors provides insights into the venture's potential success.
+
+** Competitive Analysis
+Identifying direct and future competitors, assessing their strengths and weaknesses, and differentiating the business from rivals are crucial for evaluating the venture's viability.
+
+** Market Analysis
+Focusing on the target market, customer needs, and the venture's ability to solve problems better than competitors is essential. Collecting data and evidence supports the plan's claims.
+
+** Introducing Your Management Team
+The management team is key to converting a business plan into a successful venture. Highlighting the team's qualifications, professional paths, and ability to work as a unit demonstrates their capability to manage risks and opportunities.
+
+** Bringing Your Product to Market
+Detailed marketing and operations plans show understanding of daily business functions. These plans help anticipate roadblocks and demonstrate value creation for stakeholders.
+
+** Operations Plan
+This section outlines daily activities, sourcing supplies, manufacturing or distribution processes, business location, and workforce. Visual aids can help clarify complex information.
+
+** Marketing Plan
+The marketing plan focuses on selling the product, customer buying behavior, value determination, and achieving sales milestones. It includes strategies for product positioning, pricing, distribution, and promotion.
+
+** Projecting Financial Risk and Reward
+Financial projections, although not exhaustive, must address risks and return on investment. The plan should include balance sheets, cash flow statements, and breakeven analysis to provide a comprehensive financial picture.
+
+** Attachments and Milestones
+Attachments offer supplemental information, such as financial statements and management resumes. Milestone plans provide timelines for achieving major business events, creating an ambitious yet realistic schedule.
+
+** Conclusion
+A business plan is NOT meant to be static; it should be regularly updated to track progress and reassess assumptions. This ongoing process enhances the venture's preparedness for success and provides valuable insights for future planning.

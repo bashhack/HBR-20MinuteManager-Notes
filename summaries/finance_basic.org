@@ -1,0 +1,50 @@
+#+title: Finance Basics - HBR Notes
+#+author: Marc Alvarez
+#+date: <2024-10-06 Sun>
+
+* Summary
+Finance is crucial for all businesses as they need to generate and manage funds for operations. Understanding finance helps managers ask critical questions and make informed decisions regarding revenue sources, spending, and investment opportunities. The discipline involves navigating financial statements such as the income statement, balance sheet, and cash flow statement, all of which provide insights into a company's profitability, financial position, and cash management. Accounting methods like GAAP dictate the presentation of these financials, using either cash-based or accrual accounting. Accrual accounting, which matches costs to associated revenues, is more prevalent due to its accuracy in depicting profits. The income statement reveals a company's net income over a period by detailing revenues and subtracting expenses. The balance sheet provides a snapshot of financial health, listing assets, liabilities, and owner's equity, while the cash flow statement illustrates cash generation and usage. Financial health is assessed through ratio analysis, examining profitability, efficiency, liquidity, and leverage. This analysis helps in evaluating investment opportunities through methods like ROI, payback period, and NPV. Budgets align with strategic goals and can be prepared using top-down or bottom-up approaches. Quantifying assumptions and calculating ROI are vital in decision-making, ensuring investments align with company objectives. Performance tracking and variance analysis enable adjustments to maintain financial health.
+
+* Notes
+** Importance of Finance
+   - Finance is essential for all businesses to manage income and expenditure.
+   - Managers must understand revenue sources, cost management, and investment decisions.
+   - Financial statements provide critical data for decision-making.
+
+** The Three Pillars: Financial Statements
+   - **Income Statement**: Shows profit or loss by detailing revenues and subtracting costs.
+   - **Balance Sheet**: Offers a snapshot of financial position, listing assets, liabilities, and equity.
+   - **Cash Flow Statement**: Tracks cash generation and usage, crucial for budget preparation.
+
+** Accounting Methods
+   - **GAAP**: Provides standardized rules for financial reporting.
+   - **Accrual Accounting**: Matches costs to revenues; offers a more accurate profit picture than cash-based accounting.
+
+** Ratio Analysis
+   - **Profitability Ratios**: Evaluate profit efficiency (e.g., ROS, ROA, ROE).
+   - **Efficiency Ratios**: Measure asset and liability management (e.g., asset turnover).
+   - **Liquidity Ratios**: Assess financial obligations (e.g., current ratio).
+   - **Leverage Ratios**: Analyze debt reliance (e.g., debt-to-equity).
+
+** Budgeting
+   - Aligns with strategic goals, can be top-down or bottom-up.
+   - Requires understanding company strategy and careful assumption quantification.
+   - ROI calculations guide investment decisions.
+
+** Investment Evaluation
+   - **ROI Analysis**: Involves mapping costs, savings, and cash flows.
+   - **Payback Period**: Determines time to recoup investments.
+   - **NPV and IRR**: Advanced tools for evaluating future cash flows.
+
+** Performance Tracking
+   - Regularly monitor results against projections.
+   - Variance analysis helps in adjusting strategies and maintaining control.
+   - Involvement of team members is crucial for addressing variances.
+
+** Key Terms
+   - **Accrual Accounting**: Recognizes revenues and expenses when incurred.
+   - **Balance Sheet**: Snapshot of financial health at a specific point.
+   - **Cash Flow**: Tracks cash inflows and outflows.
+   - **GAAP**: Standard accounting principles.
+   - **ROI**: Measures investment returns.
+   - **SWOT Analysis**: Evaluates strengths, weaknesses, opportunities, and threats.

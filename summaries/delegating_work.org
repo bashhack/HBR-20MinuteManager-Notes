@@ -1,0 +1,34 @@
+#+title: Delegating Work - HBR Notes
+#+author: Marc Alvarez
+#+date: <2024-10-05 Sat>
+
+* Summary
+This is a comprehensive guide on delegation, a managerial strategy of assigning tasks, projects, or functions to other individuals. It explores the reasons and benefits of delegating, effective delegation, tips for creating a conducive environment for delegation, and ways to address common concerns associated with delegation. The guide also delves into the process of preparing to delegate, making the assignment, monitoring the assignment, and reviewing the process.
+
+* Notes
+** Reasons and Benefits of Delegating
+- Reasons for delegating include reducing workload, improving leadership skills, and enhancing organizational productivity.
+- Benefits of delegating include stress reduction, improvement in coaching skills, and increased job satisfaction for the delegator.
+- For employees, delegation can increase motivation, confidence, and skill development.
+- For organizations, delegation can lead to efficient use of resources, improved productivity, and cost savings.
+
+** Effective Delegating
+- Delegation should transfer responsibility for a task, project, or function to another person, but the delegator should retain control and responsibility over the larger work.
+- The environment should encourage and support delegation.
+- Delegation should also serve as a means to assess staff members' capabilities before promotions.
+
+** Preparing to Delegate
+- The delegator should determine what work to delegate, who to delegate to, and the level of authority to be granted.
+- The delegator should also consider their reasons for delegating and identify the required skills for the task.
+
+** Making the Assignment
+- When delegating work, it is important to thoroughly describe the job and expectations to the person taking on the work.
+- The delegator should also communicate the scope and authority of the assignment to other team members.
+
+** Monitoring the Assignment
+- After delegating, the delegator should regularly check the progress of the assignment, provide support, and anticipate and address problems.
+- The delegator should avoid micromanaging and encourage independent problem-solving.
+
+** Reviewing the Process
+- After the assignment is completed, the delegator should evaluate what worked and what didn't, and use this information to improve future delegations.
+- The delegator should also consider sharing the delegation skills they've learned with other team leaders.

@@ -1,0 +1,49 @@
+#+title: Managing Projects - HBR Notes
+#+author: Marc Alvarez
+#+date: <2024-10-06 Sun>
+
+* Summary
+Project management involves overseeing a project from start to finish. It is typically divided into four phases: planning, build-up, implementation, and closeout. Projects are distinct from processes, with a clear beginning, middle, and end, and often involve coordinating a team towards a specific goal. Project managers must possess strong organizational, financial, and interpersonal skills to effectively manage resources, schedules, and budgets across these phases. Each phase requires specific skills and tools, such as task analysis and scheduling charts, to ensure project success. 
+
+* Notes
+** Understanding Projects and Management
+   - Projects are large tasks with a defined start and end, unlike ongoing processes.
+   - Common examples include construction, product launches, and marketing campaigns.
+   - Project management is crucial for organizing tasks, resources, and teams effectively.
+
+** The Four Phases of Project Management
+   - **Planning**: Define the problem, identify stakeholders, map out goals, and resources.
+   - **Build-Up**: Assemble the team, schedule tasks, and create a budget.
+   - **Implementation**: Monitor progress, hold meetings, and manage issues.
+   - **Closeout**: Evaluate performance, document lessons, and prepare final reports.
+
+** Key Skills and Tools for Each Phase
+   - **Planning**: Task analysis, cost-benefit analysis, work breakdown structures.
+   - **Build-Up**: Team building, delegation, scheduling tools like Gantt or PERT charts.
+   - **Implementation**: Supervision, conflict management, real-time tracking.
+   - **Closeout**: Follow-through, communication, post-evaluation reports.
+
+** Planning Your Project
+   - Define the real problem and establish SMART goals.
+   - Identify stakeholders and prepare for trade-offs in scope, schedule, and budget.
+   - Break down tasks using a work breakdown structure for effective management.
+
+** Building Up Your Project
+   - Assemble a skilled team and plan a kickoff meeting to align goals.
+   - Use scheduling tools and set realistic timelines and milestones.
+   - Develop a comprehensive budget, considering personnel, training, and overhead costs.
+
+** Managing Your Project
+   - Delegate routine and specialized tasks appropriately.
+   - Use trust and track methods to monitor progress and adjust plans.
+   - Maintain quality control and report progress to stakeholders regularly.
+
+** Dealing with Project Challenges
+   - Address scope creep by managing stakeholder expectations.
+   - Tackle delays and budget overruns with proactive solutions.
+   - Handle people issues swiftly to maintain team morale and project efficacy.
+
+** Bringing the Project to a Successful Conclusion
+   - Prepare for a smooth handoff and conduct a post-project evaluation.
+   - Develop a final report documenting achievements and lessons learned.
+   - Thank team members and reflect on personal growth and project outcomes.

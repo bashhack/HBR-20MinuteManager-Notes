@@ -1,0 +1,56 @@
+#+title: Giving Effective Feedback - HBR Notes
+#+author: Marc Alvarez
+#+date: 10.05.2024
+
+* Summary
+Effective feedback is a crucial part of fostering a productive work environment. It involves providing both corrective and positive feedback to help individuals grow, change course when necessary, and reinforce good behaviors. This process strengthens teamwork, communication, and overall performance.
+
+* Notes
+** Why Feedback Matters
+- Feedback helps colleagues and direct reports by signaling appreciation, correcting undesirable behavior, and encouraging more productive actions.
+- It fosters learning, development, motivation, and open communication.
+- Providing feedback regularly, both positive and corrective, helps maintain a healthy organizational culture.
+
+** What Makes Feedback Effective?
+- Feedback should be delivered frequently, within context, with clear goals.
+- The conversation should be two-way, showing respect, and offering realistic expectations.
+- It’s important to deliver feedback as a point of view, not an absolute truth.
+- Feedback that encourages follow-up increases the likelihood of performance improvements.
+
+** Overcoming the Fear of Giving Feedback
+- Fear of hurting relationships or provoking defensiveness can prevent effective feedback.
+- Regular feedback, both positive and corrective, helps normalize these conversations and reduce fear.
+
+** Choosing When to Give Feedback
+- Give feedback when it’s well-timed and the recipient can change the behavior.
+- Provide feedback when the recipient is expecting it or when issues can’t be ignored.
+- Avoid giving feedback when you lack complete information, when the recipient is too emotional, or when your personal preference is the sole basis.
+
+** Effective Feedback Scenarios
+- Recognize good work and resourcefulness.
+- Provide feedback when improvement opportunities are imminent.
+- Avoid feedback when it focuses on issues outside the recipient’s control.
+
+** Feedback vs Coaching vs Performance Appraisals
+- Feedback is focused on reinforcing or changing behavior, usually casual and frequent.
+- Coaching improves skills and is slightly more formal, often occurring in regular meetings.
+- Performance appraisals are formal evaluations that assess past work, often in a supervisor’s office.
+
+** Conducting a Feedback Session
+- Plan the interaction, gather all information, and anticipate the recipient’s reaction.
+- Organize your points: report the behavior, its effect on the team, and address potential objections.
+- Engage in dialogue by asking questions and listening carefully.
+- Develop an action plan with specific steps and a follow-up schedule.
+
+** Managing Difficult Feedback Situations
+- Handle unresponsive individuals by asking open-ended questions and giving space for them to respond.
+- Manage volatile situations by planning ahead, staying calm, and limiting the feedback to one or two points.
+
+** Giving Feedback to High Performers
+- Provide stars with regular feedback to maintain their engagement and help them improve.
+- Understand the cost of high performance and never assume perfection.
+
+** Creating a Receptive Feedback Climate
+- Make feedback a priority, both publicly and privately.
+- Start small by recognizing small wins, and offer genuine praise without coupling it with criticism.
+- Encourage a culture where feedback flows from all directions.

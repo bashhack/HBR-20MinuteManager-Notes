@@ -1,0 +1,33 @@
+#+title: Running Meetings - HBR Notes
+#+author: Marc Alvarez
+#+date: <2024-10-06 Sun>
+
+* Summary
+This document provides comprehensive guidance on conducting effective meetings, emphasizing preparation, execution, and follow-up. Key points include determining the necessity of a meeting, thorough agenda planning, role assignments, and effective management during and after the meeting. It highlights the importance of questioning the need for a meeting, setting clear objectives, and ensuring meaningful participation. Additionally, it outlines strategies for dealing with common challenges and decision-making processes, providing practical checklists and examples for successful outcomes.
+
+* Notes
+** Meeting Preparation
+   - Preparing for a meeting is crucial to its success. This involves ensuring the meeting is necessary, clearly defining its purpose, and developing a preliminary agenda.
+   - Key roles should be assigned, and participants should be carefully selected.
+   - Considerations include the meeting's timing and location, distribution of the agenda and preparatory materials, and testing any equipment.
+   - Confirming participant availability and understanding their roles is essential.
+
+** Leading the Meeting
+   - Starting on time and setting the right tone are critical at the beginning of a meeting. The leader should guide participants through the agenda, encourage diverse viewpoints, and manage dynamics such as dominant voices or virtual participant inclusion.
+   - Techniques like breaking into smaller groups or appointing a devil's advocate can enhance discussions.
+   - Leaders should also remain attentive to non-verbal cues and manage multitasking to maintain focus.
+
+** Closing the Meeting
+   - A concise and motivating conclusion is vital. Summarize key points, decisions, and assign action items with clear responsibilities.
+   - A positive closing message reinforces the meeting's achievements and encourages follow-through.
+   - Post-meeting, a follow-up note detailing outcomes, responsibilities, and timelines is recommended, along with self-assessment and stakeholder engagement to ensure effectiveness.
+
+** Running Specific Types of Meetings
+   - Different meeting types require tailored approaches. Problem-solving meetings benefit from defining the problem, exploring causes, consequences, and solutions, and achieving consensus on the best option.
+   - Decision-making meetings have unique challenges, requiring clarity on how decisions will be made and the level of participant input. Options include majority vote, group consensus, or leader decision, each with specific advantages and contexts for use.
+
+** Handling Meeting Challenges
+   - Despite careful planning, meetings can encounter issues. Preparedness for late arrivals, dominant participants, or off-topic discussions can mitigate disruptions.
+   - Strategies include assigning roles, using visual aids, and encouraging balanced participation. For persistent problems, private follow-ups or breaks may be necessary.
+   - Silence or avoidance of key topics indicates underlying issues, requiring tactful handling and possible agenda adjustments.
+   - Recognizing and addressing the 'elephant in the room' ensures a productive and open meeting environment.
