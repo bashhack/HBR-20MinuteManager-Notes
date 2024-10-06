@@ -2,6 +2,11 @@
 
 This repository contains my personal notes from the **Harvard Business Review's "20 Minute Manager" series**, including raw verbal note transcriptions I made while reading using the iOS 'Voice Memos' app and the corresponding Emacs Org-mode summaries. These notes cover key takeaways and actionable insights on essential management topics.
 
+## Quick Links
+
+- [Summaries](./summaries)
+- [Transcription](./transcriptions)
+
 ## Repository Structure
 
 The repository is structured as follows:
